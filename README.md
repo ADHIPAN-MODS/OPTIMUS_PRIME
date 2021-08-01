@@ -1,15 +1,24 @@
+<div align="center"> 
+  
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://camo.githubusercontent.com/c30eaa76fb4d276a52c8c22af3da174b536b4d5d5bbcc8746193f97abed00034/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352353266467661334638346433435773714b347673576d5851436e75644574726b365a5126757371703d434155" alt=" ADHIPAN-MODS " height="200" width="200" />
+</a>   
+  
 
-<div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/KbE2Nce.jpeg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  
+  
+  
+  
+  
+  
+
+<a href="#"><img title="OPTIMUS_PRIME" src="https://img.shields.io/badge/OPTIMUS_PRIME-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ADHIPAN-MODS"><img title="Author" src="https://img.shields.io/badge/ADHIPAN-MODS/OPTIMUS_PRIME?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA">ADHIPAN</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,11 +42,11 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
   <div align="center">
+
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
-  </div>
+ 
     
 ## Setup
 <div align="center">
@@ -89,15 +98,14 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## Developer
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Hisham-Muhammed/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
-----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
-    
+| [![ADHIPAN-MODS](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4.)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) |
+|----|
+| [ADHIPAN-MODS](https://github.com/ADHIPAN-MODS) |
+| Developer, Base, Bug Fixes, Modules |
+
 
 
 ## License
