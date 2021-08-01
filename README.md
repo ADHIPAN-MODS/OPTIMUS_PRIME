@@ -126,7 +126,7 @@ If you are concerned about security, you can install it on your own computer. If
 **Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
 
 ### What does OPTIMUS_PRIME mean?
-Its is a project made by ADHIPAN for his friend PRIME.
+It is a project made by ADHIPAN for his friend PRIME.
 
             
             
