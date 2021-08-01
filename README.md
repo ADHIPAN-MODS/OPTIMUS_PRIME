@@ -1,6 +1,21 @@
+## IT'S_ME_ADHIPAN
+[![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) ](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
+
+Thank you Everyone for helping to develop this one🦋
+
+
+
+## Thanks for Everything 
+### We will always remember you..
+
+- [Black Hydra D.C.W](https://www.youtube.com/channel/UCt2wEGBQkjqCNhhRObiVVgA)
+
+
+
+
 <div align="center"> 
   
- <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://camo.githubusercontent.com/c30eaa76fb4d276a52c8c22af3da174b536b4d5d5bbcc8746193f97abed00034/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352353266467661334638346433435773714b347673576d5851436e75644574726b365a5126757371703d434155" alt=" ADHIPAN-MODS " height="200" width="200" />
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://camo.githubusercontent.com/c30eaa76fb4d276a52c8c22af3da174b536b4d5d5bbcc8746193f97abed00034/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352353266467661334638346433435773714b347673576d5851436e75644574726b365a5126757371703d434155" alt=" ADHIPAN-MODS " height="300" width="300" />
 </a>   
   
 
@@ -28,15 +43,10 @@ Project created by <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNx
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+  </a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
+
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -46,8 +56,21 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 
        
- 
-    
+
+| <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA"> CLICK HERE TO SUBSCRIBE OUR CHANNEL FOR MORE UPDATES</a> |
+
+  
+  
+  
+<div align="center">     
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="200" width="300" /></a> 
+  
+  
+
+## 🔎 What is OPTIMUS_PRIME USER BOT ?
+** OPTIMUS_PRIME ,** is a WhatsApp helper bot MODDED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS) and MANAGED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS).It Does not log into your account. It is written on WhatsApp Web API.
+
+  
 ## Setup
 <div align="center">
 
@@ -88,14 +111,37 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
+# F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+
+### What does OPTIMUS_PRIME mean?
+Its is a project made by ADHIPAN for his friend PRIME.
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, ADHIPAN-MODS do not accept responsibility.
+By establishing the OPTIMUS_PRIME USER BOT, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developer
@@ -112,4 +158,22 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+`WhatsApp, YOUTUBE` name, its variations and the logo are registered trademarks of Facebook And Google. We have nothing to do with the registered trademark
+
+    
+## Thanks To
+[Black Hydra (D.C.W)](https://www.youtube.com/channel/UCt2wEGBQkjqCNhhRObiVVgA)
+[Pablo,
+Prime,
+Farhan,
+Arjun Vinod,
+Nithin,
+Ultron,
+And All Our Supporters](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+    
+    
+    
+    
+Project created by <a href="https://github.com/ADHIPAN-MODS">ADHIPAN</a> to make it public
+
+| © | Reserved |
