@@ -55,7 +55,7 @@ Project created by <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNx
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HvIOluxZFy88tMuCV3yIfY)
   <div align="center">
 
        
